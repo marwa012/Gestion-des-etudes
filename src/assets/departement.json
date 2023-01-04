@@ -1,0 +1,52 @@
+[
+  {
+    "id_dep":"1",
+    "nom": "MATH",
+    "etudiants": [{
+      "id_etu":"1",
+      "nom": "Zied",
+      "prenom": "Jazir"
+    },
+      {
+        "id-etu":"2",
+        "nom": "Karim",
+        "prenom": "Zayd"
+      }
+    ],
+    "enseignants": [{
+      "id_ens":"3",
+      "nom": "Samir",
+      "prenom": "Maatallah"
+    },
+      {
+        "id_ens":"4",
+        "nom": "Brahim",
+        "prenom": "Said"
+      }
+    ]
+  },
+  {
+    "id_dep":"2",
+    "nom": "Physique",
+    "etudiants": [{
+      "nom": "Fares",
+      "prenom": "Fkih"
+    },
+      {
+        "nom": "Fethi",
+        "prenom": "Krim"
+      }
+    ],
+    "enseignants": [{
+      "id_ens":"5",
+      "nom": "Naser",
+      "prenom": "Brahem"
+    },
+      {
+        "id_ens":"6",
+        "nom": "Ali",
+        "prenom": "Toumi"
+      }
+    ]
+  }
+]
